@@ -416,3 +416,33 @@ img { display: block; max-width: 100%; height: auto; }
   }
   .hero-content { padding-bottom: 24px; }
 }
+
+/* --- Purchase section: net inventory subsection --- */
+.net-inventory {
+  margin-top: 2rem;
+}
+
+.subsection-heading {
+  font-family: var(--font-head);
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--navy);
+  text-align: left;
+  margin-bottom: 0.9rem;
+}
+
+.net-inventory ul {
+  list-style: disc;
+  padding-left: 1.3rem;
+}
+
+.net-inventory li {
+  font-size: 1rem;
+  color: var(--text-lt);
+  line-height: 1.75;
+  margin-bottom: 0.4rem;
+}
+
+.net-inventory li:last-child {
+  margin-bottom: 0;
+}
