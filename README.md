@@ -1,6 +1,6 @@
 # Sierra Nets
 
-Static site for [sierranets.com](https://sierranets.com), hosted on GitHub Pages.
+Static site for [sierranets.com](https://sierranets.com), hosted on GitHub Pages. Make changes to HTML and CSS files in text editor, commit and push to git/GitHub from local directory (/media/roland/repos/sierranets-website). 
 
 ## Repository Structure
 
